@@ -30,14 +30,26 @@ Input any job title, company name, and job description, then upload your resume 
 
 ---
 
-### 4. ✉️ AI-Powered Cover Letter Generator
+### 4. 📈 In-Depth Resume Review & ATS Score Analysis
+Get a comprehensive analysis of your resume with detailed category-based scoring and actionable ATS optimization feedback:
+- **Comprehensive Resume Scoring**: Detailed ratings for Tone & Style, Content, Structure, and Skills.
+- **ATS Compatibility Scan**: Detect formatting issues, title alignment, and keyword gaps to maximize ATS readability.
+- **Interactive Breakdown**: Expandable sections providing precise tips and guidance for resume refinement.
+
+![Resume Review](screenshots/06-resume-review.png)
+
+![ATS Score Breakdown](screenshots/07-ats-score-breakdown.png)
+
+---
+
+### 5. ✉️ AI-Powered Cover Letter Generator
 Effortlessly generate highly customized, professional cover letters tailored specifically to the target company and job description based on your resume's experience. Includes a 1-click copy functionality.
 
 ![Cover Letter Generator](screenshots/04-cover-letter.png)
 
 ---
 
-### 5. 💡 Targeted Interview Preparation Assistant
+### 6. 💡 Targeted Interview Preparation Assistant
 Prepare for interviews with confidence. The application generates customized interview questions (technical, behavioral, and scenario-based) tailored specifically to your resume background and the target role, complete with strategy guidance for each response.
 
 ![Interview Preparation](screenshots/05-interview-prep.png)
