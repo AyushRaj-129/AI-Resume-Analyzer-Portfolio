@@ -103,9 +103,5 @@ ai-resume-analyzer/
 ├── vite.config.ts      # Vite configuration
 └── tsconfig.json       # TypeScript configuration
 ```
-
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
