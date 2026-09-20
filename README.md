@@ -78,8 +78,8 @@ Prepare for interviews with confidence. The application generates customized int
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-resume-analyzer.git
-   cd ai-resume-analyzer
+   git clone https://github.com/AyushRaj-129/AI-Resume-Analyzer-Portfolio.git
+   cd AI-Resume-Analyzer-Portfolio
    ```
 
 2. **Install dependencies**:
